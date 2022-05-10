@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto:wght@300&display=swap');
+
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bold{
+    font-weight: bolder;
+}
+.green{
+    color: green;
+}
+
+.padin{
+    padding-top: .5em;
+}
+
+.text-center{
+    margin: auto;
+    padding-top: 7%;
+    text-align: center;
+    color: rgb(253, 13, 237);
+    font-size: 3em; 
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.last{
+    text-align: center;
+    margin: .5em auto;
+    font-size: 1.5em;
+    color: rgb(215, 33, 33);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
